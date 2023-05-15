@@ -1,0 +1,14 @@
+<root name="todo" >
+   	    <user_domain 
+            name="user domain"
+      >
+
+      <id_space
+           type_name="Merchant|[1,80]"
+           init_digits_length="6|[1,100]"
+           current="999999999999999999L"
+           domain="user_domain()"
+      />
+
+
+</root>
