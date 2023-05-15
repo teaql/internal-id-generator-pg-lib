@@ -1,4 +1,4 @@
 <?xml version="1.0"?>
-<root name="internal_id_generator" org="io.teaql" version="3">
+<root name="internal_id_generator" org="io.teaql" version="4">
   <include file="id-space.xml"/>
 </root>
