@@ -6,7 +6,7 @@
       <id_space
            type_name="Merchant|[1,80]"
            init_digits_length="6|[1,100]"
-           current="999999999999999999L"
+           current="9999999999"
            domain="user_domain()"
       />
 
